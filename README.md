@@ -17,7 +17,7 @@ If your README is long, add a table of contents to make it easy for users to fin
 - [Usage](#usage)
 - [Credits](#credits)
 - [License](#license)
-- [<a name="Features"></a>](#features)
+- [Features](<a name="Features"></a>)
 
 ## Installation
 
