@@ -17,7 +17,7 @@ If your README is long, add a table of contents to make it easy for users to fin
 - [Usage](#usage)
 - [Credits](#credits)
 - [License](#license)
-- [Features](<a id="Features"></a>)
+- [Features](https://github.com/milkibeka/horiseon-refactor/blob/feature/professional-README/README.md#features)
 
 ## Installation
 
